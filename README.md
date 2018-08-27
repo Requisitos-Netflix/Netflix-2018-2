@@ -1,2 +1,3 @@
-# requisitos
-Repositório do grupo de Requisitos Ursal
+# Requisitos
+Repositório do grupo da disciplina de Requisitos 
+App NETFLIX
